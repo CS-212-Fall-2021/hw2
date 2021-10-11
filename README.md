@@ -33,7 +33,7 @@ Insert your solutions in `solution` environments in `hw2.tex`. The file named `h
 
 This is a team submission on GitHub and contributes to your _Submission Score_.
 
-Deadline: 2359h on Sunday, 17 October
+Deadline: 2359h on Sunday, 24 October
 
 ## 2.2 Feedback
 
@@ -41,7 +41,7 @@ You will provide feedback on your buddies and on the assignment through a from w
 
 This is an individual submission on LMS and contributes to your individual _Team Factor_ which is 1 by default and penalized for non-submission or non-participation in the team as assessed through peer feedback or GitHub contribution.
 
-Deadline: 2359h on Sunday, 17 October
+Deadline: 2359h on Sunday, 24 October
 
 # Grading
 
