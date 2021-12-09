@@ -1,0 +1,60 @@
+# Learning
+- about PDA construction, CFG to PDA, and converting to Chomsky Normal Form. 
+- use of the pumping lemms,work with CFGs and construct parse trees using derivations.
+- pumping lemma concepts have improved
+- convert CFG to CNF
+- Ambiguous grammar
+- How to draw trees in latex.
+- construct proof by contradiction
+- Collaboration in doing the homework 
+- across a lot of compilation error I was also introduced to some new LaTex things.
+- I learned how to work under a lot of pressure and manage my time. 
+- How to code on latex it is really amazing work to do.
+
+# Improve
+- None
+- Q2 was a bit tricky and the TA uploading the video on the Pumping Lemma was helpful but i found that youtube videos were better in this regard.
+- By making the questions a little more explained.
+- So I think the homework doesn't have any improvements 
+- I think this HW was adequate enough to be not improved
+- Some parts like 2a were a little vague in the sense they didn't specify whether they wanted a formal answer or a theoretical/logical answer would suffice
+- No particular improvements, was fun homework.
+- Q2 can be simplified more,TA session.
+- Question 2 part b  was confusing, maybe because of its sentence structure due to which it took more time to do the assignment than expected. Rest was fine and easy.
+- Give easy questions which have more parts
+- Provide even number of questions
+- good overall
+- I found this homework better at instructions than the last one, i dont feel the need to improve anything here. 
+- assignment was the right amount of challenging and does not really need any improvements
+- Homework was fine and making it short made it interesting. It would be great if questions get a bit challenging.
+- The Homework is fine just an extension in deadline would've helped.
+- More explanation or hints would be useful.
+- It could have more questions, but overall it was a very helpful assignment. 
+-  I feel that more such questions need to be presented and to be practiced in recitations.
+- It may be because I have got the answers wrong, but the grading distribution seemed a little bit weird, question 5 was not too long assuming I did it right for it to be 40 percent of the homework. Question 2, on the other hand was very confusing but worth so much less. The other questions were also decently sized but worth way less than Q5.
+- The homework was pretty conceptual and confused me a lot of times. Hence, it would be great if some extra working examples get discussed in recitations. 
+- Similar difficulty level questions should/could be discussed beforehand as a practice as well.
+- Please give a little more time for challenging qs.
+- By dividing marks according to latex workload
+- If more diagrams are given to understand. 
+- Questions were not descriptive enough.
+- more practice by solving questions in recitation/class.
+-  if some sort of programming question is also added. For example, writing a program for checking if a language is regular or not. 
+
+# Other
+- None
+- The homework was overall fun as it involved both proofs and practical construction of automatons which really made us think. 
+- It was well designed.
+- The homework was challenging but equally distributed with respect to time. 
+- no suggestions, it provided good practice for the covered concepts
+- Please don't give deadlines of HW on important cricket match days. :) Couldn't enjoy the HW or the match.
+- Overall the assignment was not that difficult, although it was slightly complicated and required a lot of focus. 
+- Difficulty level was harder as compared to last hw.
+- Even though we faced a few difficulties doing this assignment I completely enjoyed it and it was helpful as a practice. 
+- I feel that the homework had doable amount of questions and the questions themselves were also in line with what has been taught in class. 
+- I think the homework was well designed and was doable in the given time.
+- The homework was too difficult.
+-  the time given was adequate and the topics in this homework were covered extensively in due time. 
+- It was nicely designed. 
+- Questions were quite challenging, but I believe this was necessary to provide the understanding of the CLOs. Other than this, everything was okay.
+- If possible, do share the model solution for the assignment once the submission date passes (i.e., "locks").
